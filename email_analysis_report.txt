@@ -1,0 +1,8 @@
+Email Analysis Report
+Total Emails: 1
+
+Domain Counts:
+ 2023-11-06 14:20:00 : 1
+
+Subject Keyword Counts:
+admin: 1
